@@ -1,4 +1,4 @@
-# mostoslavski_david_DEVA1A
+# DEVA1A
 
 ## Lien GitHub: https://github.com/Ovsiankina/module_164_examen_final
 
