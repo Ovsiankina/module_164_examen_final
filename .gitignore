@@ -1,0 +1,131 @@
+# Byte-compiled / optimized / DLL files
+164_films_om/__pycache__/
+164_films_om/*.py[cod]
+164_films_om/*$py.class
+
+# C extensions
+164_films_om/*.so
+
+# Distribution / packaging
+164_films_om/.Python
+164_films_om/env/
+164_films_om/build/
+164_films_om/develop-eggs/
+164_films_om/dist/
+164_films_om/downloads/
+164_films_om/eggs/
+164_films_om/.eggs/
+164_films_om/lib/
+164_films_om/lib64/
+164_films_om/parts/
+164_films_om/sdist/
+164_films_om/var/
+164_films_om/*.egg-info/
+164_films_om/.installed.cfg
+164_films_om/*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+164_films_om/*.manifest
+164_films_om/*.spec
+
+# Installer logs
+164_films_om/pip-log.txt
+164_films_om/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+164_films_om/htmlcov/
+164_films_om/.tox/
+164_films_om/.coverage
+164_films_om/.coverage.*
+164_films_om/.cache
+164_films_om/nosetests.xml
+164_films_om/coverage.xml
+164_films_om/*,cover
+164_films_om/.hypothesis/
+
+# Translations
+164_films_om/*.mo
+164_films_om/*.pot
+
+# Django stuff:
+164_films_om/*.log
+164_films_om/local_settings.py
+
+# Flask stuff:
+164_films_om/instance/
+164_films_om/.webassets-cache
+
+# Scrapy stuff:
+164_films_om/.scrapy
+
+# Sphinx documentation
+164_films_om/docs/_build/
+
+# PyBuilder
+164_films_om/target/
+
+# IPython Notebook
+164_films_om/.ipynb_checkpoints
+
+# pyenv
+164_films_om/.python-version
+
+# celery beat schedule file
+164_films_om/celerybeat-schedule
+
+# dotenv
+# .env Pour des raisons de simplification de correction des 80 projets le fichier sera sur Github OM 2022.03.30
+
+# virtualenv
+164_films_om/venv/
+164_films_om/ENV/
+
+# Spyder project settings
+164_films_om/.spyderproject
+
+# Rope project settings
+164_films_om/.ropeproject
+
+# Virtualenv
+164_films_om/.Python
+164_films_om/[Bb]in
+164_films_om/[Ii]nclude
+164_films_om/[Ll]ib
+164_films_om/[Ll]ib64
+164_films_om/[Ll]ocal
+164_films_om/[Ss]cripts
+164_films_om/pyvenv.cfg
+164_films_om/.venv
+164_films_om/pip-selfcheck.json
+
+# JetBrains specific files
+164_films_om/.idea/workspace.xml
+164_films_om/.idea/tasks.xml
+164_films_om/.idea/dictionaries
+164_films_om/.idea/vcs.xml
+164_films_om/.idea/jsLibraryMappings.xml
+164_films_om/.idea/dataSources.ids
+164_films_om/.idea/dataSources.xml
+164_films_om/.idea/dataSources.local.xml
+164_films_om/.idea/sqlDataSources.xml
+164_films_om/.idea/dynamic.xml
+164_films_om/.idea/uiDesigner.xml
+164_films_om/.idea/gradle.xml
+164_films_om/.idea/libraries
+164_films_om/.idea/mongoSettings.xml
+
+# File-based project format:
+164_films_om/*.iws
+
+# Plugin-specific files:
+164_films_om/.idea_modules/
+164_films_om/atlassian-ide-plugin.xml
+164_films_om/com_crashlytics_export_strings.xml
+164_films_om/crashlytics.properties
+164_films_om/crashlytics-build.properties
+164_films_om/fabric.properties
+164_films_om/.idea/
+164_films_om/out/
+
